@@ -35,6 +35,6 @@ public class Lab {
            str=  str  + " " + nums[i];
         }
       
-         return str ;
+         return str;
     }
 }
